@@ -1,0 +1,24 @@
+rules_version = '2';
+
+// The website reads and writes Firestore through the Admin SDK on the server,
+// which bypasses these rules. They exist to lock down direct browser access.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Site content: readable by anyone, never writable from the browser.
+    match /content/{document} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Prayer requests are private. They are created by the /api/prayer route
+    // (Admin SDK) and only ever read in /admin, again server-side.
+    match /prayerRequests/{id} {
+      allow read, write: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

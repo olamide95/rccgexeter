@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Assistant Pastor",
+    "name": "Pastor Samuel Adeyemi",
+    "body": "Oversees discipleship and the midweek service, and leads our new members' class.",
+    "image": "/media/images/team-0.jpg"
+  },
+  {
+    "role": "Parish Secretary",
+    "name": "Deaconess Grace Ilori",
+    "body": "First point of contact for the parish office, memberships and hall bookings.",
+    "image": "/media/images/team-1.jpg"
+  },
+  {
+    "role": "Head of Media",
+    "name": "Brother Tunde Bakare",
+    "body": "Runs the live stream, the sermon archive and everything you see on this website.",
+    "image": "/media/images/team-2.jpg"
+  },
+  {
+    "role": "Children's Church Lead",
+    "name": "Sister Bimpe Okoro",
+    "body": "Leads a safeguarding-trained team caring for the youngest members of the parish.",
+    "image": "/media/images/team-3.jpg"
+  }
+]

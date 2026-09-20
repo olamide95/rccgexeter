@@ -1,0 +1,86 @@
+{
+  "home": {
+    "kicker": "The Redeemed Christian Church of God",
+    "heading": "You Have Found The Right Family",
+    "lede": "A Spirit-filled parish in the heart of Exeter — preaching Christ, raising disciples and opening our doors to every person, every nation, every story.",
+    "welcomeHeading": "Commissioned to preach Christ — and to meet real needs.",
+    "welcomeHighlight": "meet real needs.",
+    "welcomeBody": [
+      "Glory of God Parish is an arm of the Redeemed Christian Church of God, commissioned by God to preach the Gospel of our Lord Jesus Christ and to raise followers who will do the will of God.",
+      "Beyond that calling, we are sent to meet the physical needs of the people of Exeter and its environs — regardless of anyone's past or present experience. If you are hungry to know more about God and to fulfil your destiny in Christ, this is the right place of worship for you."
+    ],
+    "confession": "He shall bless my bread and my water, and He will take away sickness from me. The number of my days I will fulfil. I shall not die, but live to declare the works of God.",
+    "confessionRef": "Our Confession 2026 — Exodus 23:25–26"
+  },
+  "about": {
+    "heading": "A Church Commissioned For This City",
+    "lede": "Who we are, what we believe, and the mandate we carry in Exeter and beyond.",
+    "storyHeading": "An Arm Of The Redeemed Christian Church Of God",
+    "storyBody": [
+      "Glory of God Parish, Exeter is commissioned by God to preach the Gospel of our Lord Jesus Christ and to raise followers who will do the will of God.",
+      "Apart from that goal, we are also commissioned to meet the physical needs of the inhabitants of Exeter and its environs — regardless of past or present experiences and situations. Whoever walks through our doors is met as family, not as a stranger.",
+      "If you are hungry to know more about God and to fulfil your destiny in Christ, this is the right place of worship for you, and for everyone desiring a closer, deeper relationship with God through Jesus Christ."
+    ],
+    "mandate": [
+      { "label": "First", "title": "To make heaven.",
+        "body": "Everything else follows from this. We are a people being prepared for eternity, and we take that preparation seriously.",
+        "image": "/media/images/gallery-6.jpg" },
+      { "label": "Second", "title": "To take as many people with us as possible.",
+        "body": "Nobody is written off. We share what we have received — in Exeter, across the UK and beyond.",
+        "image": "/media/images/gallery-8.jpg" },
+      { "label": "Third", "title": "A member of the RCCG in every family of all nations.",
+        "body": "A worldwide mandate worked out one household at a time — which is why the door here is open to yours.",
+        "image": "/media/images/gallery-10.jpg" }
+    ],
+    "faith": [
+      { "q": "God the Father", "a": "God the Father is the Creator of heaven and earth. He made man in His own image and after His own likeness. He is eternal — no beginning and no end; omnipresent — everywhere, all the time; omnipotent — all-powerful; omniscient — all-knowing; and holy." },
+      { "q": "The Holy Trinity", "a": "We believe in the Holy Trinity: God the Father, God the Son, and God the Holy Spirit. Three in One — distinct in person, one in essence, eternally united in purpose and love." },
+      { "q": "The Holy Scriptures", "a": "We believe that the entire Scripture, both Old and New Testament, is written by the inspiration of the Holy Spirit — 2 Timothy 3:16–17 — and is the final authority for faith, doctrine and daily living." },
+      { "q": "Salvation through Jesus Christ", "a": "We believe that salvation comes by grace, through faith in the finished work of Jesus Christ — His death, burial and resurrection — offered freely to every person who will receive it." },
+      { "q": "The Holy Spirit", "a": "We believe in the person and work of the Holy Spirit: the baptism of the Holy Spirit with the evidence of speaking in other tongues, and the gifts of the Spirit operating in the Church today." },
+      { "q": "The Church and the Great Commission", "a": "We believe the Church is the body of Christ, called to worship, to make disciples of all nations, to care for the poor and the stranger, and to look for the return of our Lord Jesus Christ." }
+    ]
+  },
+  "leadership": {
+    "heading": "The People You Will Meet",
+    "lede": "Shepherds with a mandate to help God's people discover, develop and fulfil their God-given assignment.",
+    "parishPastors": {
+      "name": "Pastor & Pastor (Mrs) Odewunmi",
+      "quote": "Grace and peace be multiplied unto you from the God of our Lord Jesus Christ.",
+      "body": [
+        "In the kingdom of God, nothing just happens; the steps of the righteous are ordered by the Lord. As you are visiting this page, be rest assured that Jesus brought you here to remind you that His plans for you are of peace, and not of evil, to give you an expected end.",
+        "Pastor & Pastor (Mrs) Odewunmi are lovers of God with a mandate to help God's people discover, develop and fulfil their God-given assignment."
+      ]
+    },
+    "generalOverseer": {
+      "name": "Pastor E. A. Adeboye & Pastor (Mrs) Folu Adeboye",
+      "lede": "The life of Enoch Adejare Adeboye is a fulfilment of Zechariah 4:10 — despise not the day of small beginnings.",
+      "body": [
+        "Born in 1942 into a humble family in the village of Ifewara, Osun State, in south-western Nigeria, Pastor Adeboye often humorously states that his family was so poor that even the poor people called them poor. He unashamedly tells his congregation that he never owned a pair of shoes until he was eighteen years of age.",
+        "Today he serves as spiritual head of a church family present in more than 190 nations — a living testimony that God delights to lift the lowly."
+      ]
+    }
+  },
+  "give": {
+    "heading": "For God Loves A Cheerful Giver",
+    "lede": "Your giving keeps the doors of Glory House open and sends the gospel further than this parish could reach alone.",
+    "uses": [
+      { "title": "Keeping The Doors Open", "body": "Rent, heating, insurance and the running of Glory House week by week.", "tag": "The building", "image": "/media/images/gallery-9.jpg" },
+      { "title": "Caring For The City", "body": "Food, practical help and emergency support for people across Exeter.", "tag": "Outreach", "image": "/media/images/gallery-11.jpg" },
+      { "title": "Missions Beyond Devon", "body": "Supporting the wider RCCG mission field and church planting beyond this city.", "tag": "Missions", "image": "/media/images/gallery-2.jpg" },
+      { "title": "Children & Youth", "body": "Materials, training and safe spaces for the next generation of the parish.", "tag": "Next generation", "image": "/media/images/gallery-0.jpg" }
+    ]
+  },
+  "weeklyRhythm": [
+    { "q": "Sunday — Worship Service, 10:00am", "a": "Praise, worship, the preached word and communion on the first Sunday of each month. Children's church runs alongside for ages 3–11, and teens meet in the upper room." },
+    { "q": "Wednesday — Midweek Service, 6:00pm", "a": "Bible study, corporate prayer and testimony. A smaller, more conversational evening — an easy place to start if Sunday feels like a big first step." },
+    { "q": "Friday — Digging Deep, 7:00pm", "a": "A study series working verse by verse through a book of Scripture, currently in Romans." },
+    { "q": "First Saturday — Holy Ghost Service, 6:30pm", "a": "An extended evening of worship, the word and prayer, in step with parishes across the RCCG family." }
+  ],
+  "startHere": [
+    { "title": "New Here?", "body": "What to expect on your first Sunday, where to park, and what happens with your children.", "tag": "Plan your visit", "href": "/about", "image": "/media/images/gallery-1.jpg", "icon": "home" },
+    { "title": "Find Your People", "body": "Twelve ministries for children, teens, students, women, men and families.", "tag": "Explore ministries", "href": "/ministries", "image": "/media/images/gallery-5.jpg", "icon": "people" },
+    { "title": "Catch The Word", "body": "Every message streamed live and archived, so you never miss a Sunday.", "tag": "Watch sermons", "href": "/sermons", "image": "/media/images/gallery-3.jpg", "icon": "music" },
+    { "title": "Need Prayer?", "body": "Our prayer band stands in the gap day and night. Send a request any time.", "tag": "Request prayer", "href": "/prayer", "image": "/media/images/gallery-7.jpg", "icon": "cross" }
+  ]
+}

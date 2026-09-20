@@ -1,0 +1,30 @@
+{
+  "heroVideo": "/media/video/hero.mp4",
+  "heroPoster": "/media/images/hero-poster.jpg",
+  "heroImage": "",
+  "heroMuted": true,
+  "liveEmbed": "",
+
+  "welcome": "/media/images/welcome.jpg",
+  "welcome2": "/media/images/welcome-2.jpg",
+  "band1": "/media/images/band-1.jpg",
+  "band2": "/media/images/band-2.jpg",
+
+  "aboutHero": "/media/images/about-hero.jpg",
+  "aboutStory": "/media/images/about-story.jpg",
+  "about2": "/media/images/about-2.jpg",
+
+  "leadershipHero": "/media/images/leadership-hero.jpg",
+  "pastorOdewunmi": "/media/images/pastor-odewunmi.jpg",
+  "pastorAdeboye": "/media/images/pastor-adeboye.jpg",
+
+  "ministriesHero": "/media/images/ministries-hero.jpg",
+  "sermonsHero": "/media/images/sermons-hero.jpg",
+  "sermonThumb": "/media/images/sermon-thumb.jpg",
+  "liveThumb": "/media/images/live-thumb.jpg",
+  "galleryHero": "/media/images/gallery-hero.jpg",
+  "eventsHero": "/media/images/events-hero.jpg",
+  "giveHero": "/media/images/give-hero.jpg",
+  "contactHero": "/media/images/contact-hero.jpg",
+  "prayerHero": "/media/images/band-2.jpg"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g-0",
+    "src": "/media/images/gallery-0.jpg",
+    "caption": "Sunday Worship"
+  },
+  {
+    "id": "g-1",
+    "src": "/media/images/gallery-1.jpg",
+    "caption": "Children's Church"
+  },
+  {
+    "id": "g-2",
+    "src": "/media/images/gallery-2.jpg",
+    "caption": "Choir & Worship Team"
+  },
+  {
+    "id": "g-3",
+    "src": "/media/images/gallery-3.jpg",
+    "caption": "Community Outreach Day"
+  },
+  {
+    "id": "g-4",
+    "src": "/media/images/gallery-4.jpg",
+    "caption": "Youth Night"
+  },
+  {
+    "id": "g-5",
+    "src": "/media/images/gallery-5.jpg",
+    "caption": "Baptism Service"
+  },
+  {
+    "id": "g-6",
+    "src": "/media/images/gallery-6.jpg",
+    "caption": "Women's Fellowship"
+  },
+  {
+    "id": "g-7",
+    "src": "/media/images/gallery-7.jpg",
+    "caption": "Thanksgiving Sunday"
+  },
+  {
+    "id": "g-8",
+    "src": "/media/images/gallery-8.jpg",
+    "caption": "Holy Ghost Night"
+  },
+  {
+    "id": "g-9",
+    "src": "/media/images/gallery-9.jpg",
+    "caption": "Welcome Team"
+  },
+  {
+    "id": "g-10",
+    "src": "/media/images/gallery-10.jpg",
+    "caption": "Prayer Band"
+  },
+  {
+    "id": "g-11",
+    "src": "/media/images/gallery-11.jpg",
+    "caption": "Harvest Celebration"
+  }
+]

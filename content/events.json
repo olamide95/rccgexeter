@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ev-0",
+    "date": "2026-10-04",
+    "day": "04",
+    "month": "Oct",
+    "title": "Thanksgiving Sunday",
+    "body": "A whole-parish celebration with communion, followed by a shared meal.",
+    "time": "10:00am",
+    "image": "/media/images/event-0.jpg"
+  },
+  {
+    "id": "ev-1",
+    "date": "2026-10-11",
+    "day": "11",
+    "month": "Oct",
+    "title": "Digging Deep — Romans Series",
+    "body": "Six Wednesday evenings working verse by verse through the book of Romans.",
+    "time": "6:00pm",
+    "image": "/media/images/event-1.jpg"
+  },
+  {
+    "id": "ev-2",
+    "date": "2026-10-18",
+    "day": "18",
+    "month": "Oct",
+    "title": "Youth Night",
+    "body": "Worship, games and honest conversation for ages 11–18. Friends welcome.",
+    "time": "6:30pm",
+    "image": "/media/images/event-2.jpg"
+  },
+  {
+    "id": "ev-3",
+    "date": "2026-10-25",
+    "day": "25",
+    "month": "Oct",
+    "title": "Exeter Community Outreach Day",
+    "body": "Serving the city centre with hot food, prayer and a warm welcome.",
+    "time": "11:00am",
+    "image": "/media/images/event-3.jpg"
+  },
+  {
+    "id": "ev-4",
+    "date": "2026-11-07",
+    "day": "07",
+    "month": "Nov",
+    "title": "Holy Ghost Night",
+    "body": "An extended evening of worship, the word and prayer. Doors from 6:30pm.",
+    "time": "7:00pm",
+    "image": "/media/images/event-4.jpg"
+  },
+  {
+    "id": "ev-5",
+    "date": "2026-11-15",
+    "day": "15",
+    "month": "Nov",
+    "title": "Women's Fellowship Brunch",
+    "body": "Food, testimony and teaching for women across the parish and their guests.",
+    "time": "11:00am",
+    "image": "/media/images/event-5.jpg"
+  },
+  {
+    "id": "ev-6",
+    "date": "2026-11-29",
+    "day": "29",
+    "month": "Nov",
+    "title": "Carol Service Rehearsal",
+    "body": "Open to anyone who would like to sing with the choir this Christmas.",
+    "time": "4:00pm",
+    "image": "/media/images/event-6.jpg"
+  },
+  {
+    "id": "ev-7",
+    "date": "2026-12-20",
+    "day": "20",
+    "month": "Dec",
+    "title": "Nine Lessons & Carols",
+    "body": "Our Christmas celebration for the whole city. Bring your neighbours.",
+    "time": "5:00pm",
+    "image": "/media/images/event-7.jpg"
+  }
+]

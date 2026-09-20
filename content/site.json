@@ -1,0 +1,91 @@
+{
+  "name": "RCCG Glory of God Parish, Exeter",
+  "shortName": "Glory of God Parish",
+  "tagline": "The Redeemed Christian Church of God",
+  "venue": "Glory House",
+  "address1": "37 Northernhay Street",
+  "address2": "Exeter, EX4 3ER",
+  "mapsUrl": "https://maps.google.com/?q=37+Northernhay+Street+Exeter+EX4+3ER",
+  "prayerLine": "+44 (0) 758 6652 533",
+  "prayerLineTel": "+447586652533",
+  "office": "+44 (0) 759 3588 663",
+  "officeTel": "+447593588663",
+  "email": "info@rccgexeter.org",
+  "socials": {
+    "facebook": "#",
+    "youtube": "#",
+    "instagram": "#"
+  },
+  "services": [
+    {
+      "day": 0,
+      "hour": 10,
+      "minute": 0,
+      "minutes": 120,
+      "dayName": "Sunday",
+      "label": "10:00am",
+      "name": "Sunday Worship",
+      "time": "10:00",
+      "meridiem": "AM",
+      "description": "Our main celebration — worship, the word, communion on first Sundays, and children's church alongside.",
+      "image": "/media/images/gallery-0.jpg"
+    },
+    {
+      "day": 3,
+      "hour": 18,
+      "minute": 0,
+      "minutes": 90,
+      "dayName": "Wednesday",
+      "label": "6:00pm",
+      "name": "Midweek Service",
+      "time": "6:00",
+      "meridiem": "PM",
+      "description": "Bible study, prayer and testimony — a quieter, conversational evening in the middle of the week.",
+      "image": "/media/images/gallery-2.jpg"
+    }
+  ],
+  "prayerCard": {
+    "dayName": "Every Day",
+    "time": "24",
+    "meridiem": "/7",
+    "name": "Prayer Line",
+    "description": "Someone is always ready to pray with you. Call any hour of any day.",
+    "image": "/media/images/gallery-4.jpg"
+  },
+  "giving": {
+    "accountName": "RCCG Glory of God Parish",
+    "sortCode": "00-00-00",
+    "accountNumber": "00000000",
+    "giftAid": "+25% at no cost",
+    "note": "Bank details above are placeholders until the parish confirms them."
+  },
+  "stats": [
+    {
+      "value": 18,
+      "suffix": "+",
+      "label": "Years in Exeter"
+    },
+    {
+      "value": 12,
+      "suffix": "",
+      "label": "Ministries"
+    },
+    {
+      "value": 24,
+      "suffix": "/7",
+      "label": "Prayer Line"
+    },
+    {
+      "value": 190,
+      "suffix": "+",
+      "label": "Nations"
+    }
+  ],
+  "marquee": [
+    "He shall bless my bread and my water",
+    "I shall not die but live",
+    "The number of my days I will fulfil",
+    "Glory of God Parish, Exeter",
+    "You have found the right family"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "childrens-church",
+    "title": "Children's Church",
+    "body": "Age-appropriate teaching and play every Sunday, led by DBS-checked volunteers.",
+    "icon": "home",
+    "image": "/media/images/ministry-0.jpg"
+  },
+  {
+    "slug": "youth-and-teens",
+    "title": "Youth & Teens",
+    "body": "A safe, honest space for 11–18s to ask hard questions and build real friendships.",
+    "icon": "people",
+    "image": "/media/images/ministry-1.jpg"
+  },
+  {
+    "slug": "womens-fellowship",
+    "title": "Women's Fellowship",
+    "body": "Prayer, study and practical support for women in every season of life.",
+    "icon": "heart",
+    "image": "/media/images/ministry-2.jpg"
+  },
+  {
+    "slug": "mens-fellowship",
+    "title": "Men's Fellowship",
+    "body": "Brothers holding one another accountable in faith, work and family.",
+    "icon": "book",
+    "image": "/media/images/ministry-3.jpg"
+  },
+  {
+    "slug": "choir-and-worship",
+    "title": "Choir & Worship",
+    "body": "Singers and musicians leading the parish into the presence of God each week.",
+    "icon": "music",
+    "image": "/media/images/ministry-4.jpg"
+  },
+  {
+    "slug": "prayer-band",
+    "title": "Prayer Band",
+    "body": "The team behind our 24/7 prayer line, standing in the gap day and night.",
+    "icon": "cross",
+    "image": "/media/images/ministry-5.jpg"
+  },
+  {
+    "slug": "students-at-exeter",
+    "title": "Students At Exeter",
+    "body": "A home away from home for university students — meals, lifts and midweek meet-ups.",
+    "icon": "bag",
+    "image": "/media/images/ministry-6.jpg"
+  },
+  {
+    "slug": "community-outreach",
+    "title": "Community Outreach",
+    "body": "Meeting practical needs across Exeter — food, welcome and a hand when it is needed.",
+    "icon": "globe",
+    "image": "/media/images/ministry-7.jpg"
+  },
+  {
+    "slug": "ushering-and-welcome",
+    "title": "Ushering & Welcome",
+    "body": "The first faces you meet — making sure nobody walks in or out unnoticed.",
+    "icon": "home",
+    "image": "/media/images/ministry-8.jpg"
+  },
+  {
+    "slug": "media-and-sound",
+    "title": "Media & Sound",
+    "body": "Cameras, sound desk and the live stream that carries every service beyond the building.",
+    "icon": "camera",
+    "image": "/media/images/ministry-9.jpg"
+  },
+  {
+    "slug": "evangelism",
+    "title": "Evangelism",
+    "body": "Taking the gospel into Exeter's streets, campuses and homes, week after week.",
+    "icon": "flag",
+    "image": "/media/images/ministry-10.jpg"
+  },
+  {
+    "slug": "couples-and-family",
+    "title": "Couples & Family",
+    "body": "Building marriages and households that reflect Christ, with honest teaching and support.",
+    "icon": "couple",
+    "image": "/media/images/ministry-11.jpg"
+  }
+]

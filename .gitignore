@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+data/prayer-requests.json
+
+# Firebase
+.firebase
+serviceAccountKey.json
+firebase-debug.log
